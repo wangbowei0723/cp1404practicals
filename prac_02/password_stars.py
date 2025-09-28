@@ -15,7 +15,7 @@ def get_password():
     while len(password) < minimum_length:
         print("password must be at least 7 characters")
         password = input("enter password:")
-    return password:
+    return password
 
 
 main()
