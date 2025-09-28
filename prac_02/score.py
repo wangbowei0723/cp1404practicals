@@ -30,6 +30,6 @@ def print_result(score):
 
 def get_score():
     score = float(input("Enter score: "))
-    return score
+    return score:
 
 main()
