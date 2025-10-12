@@ -24,3 +24,4 @@ def main():
     else:
         print("Access denied")
 
+main()
