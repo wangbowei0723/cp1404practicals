@@ -12,5 +12,9 @@ def main():
         income = float(input(f"Enter income for month {month}: "))
         incomes.append(income)
 
+    print_income_report(incomes)
+
+
+
 main()
 
